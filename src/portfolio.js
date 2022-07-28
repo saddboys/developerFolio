@@ -95,19 +95,19 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C#/.net",
-      fontAwesomeClassname: "fab fa-c"
+      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "C",
-      fontAwesomeClassname: "fab fa-c"
+      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "MongoDB",
-      fontAwesomeClassname: "fab fa-database"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "Ada",
-      fontAwesomeClassname: "fab fa-lock-a"
+      fontAwesomeClassname: "fas fa-lock-a"
     },
   ],
   display: true // Set false to hide this section, defaults to true
@@ -120,7 +120,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "The University of Melbourne",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/Logo_of_the_University_of_Melbourne.svg.png"),
       subHeader: "Master of Software Engineering",
       duration: "February 2021 - November 2022",
       desc: "Software Engineer, participated in multiple AI and Machine learning subjects, and lead multiple coursework subjects with multiple team members",
@@ -129,7 +129,7 @@ const educationInfo = {
     },
     {
       schoolName: "The University of Auckland",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/auckland.png"),
       subHeader: "Bachelor of Engineering, Software",
       duration: "February 2016 - November 2020",
       desc: "Graduated with first class honours, took courses about Operating Systems, Networks, Architecture, and Software Design",
